@@ -59,4 +59,4 @@ Les tests vérifient notamment que le premier clic ne tombe jamais sur une mine 
 
 ## Auteur
 
-**Kilian Carasco** — [GitHub](https://github.com/Vador634) · [LinkedIn](https://www.linkedin.com/in/kilian-carasco-029915399/)
+**Kilian Carasco** — [Portfolio](https://kiliandev.netlify.app) · [GitHub](https://github.com/Vador634) · [LinkedIn](https://www.linkedin.com/in/kilian-carasco-029915399/)
